@@ -1,0 +1,1 @@
+# ElasticNestClient.WindowsFormsApp
